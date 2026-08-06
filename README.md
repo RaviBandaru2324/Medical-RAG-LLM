@@ -202,4 +202,4 @@ pip install -r requirements.txt
 
 For any questions or support, please contact:
 
-- **RAVI KUMAR**: ravib.ms45@gmail.com
+- **RAVI BANDARU**: ravib.ms45@gmail.com
