@@ -198,14 +198,6 @@ pip install -r requirements.txt
 }
 ```
 
-## Screenshots
-
-### Website Overview
-
-![2](<images/image%20(1).png>)
-![3](<images/image%20(2).png>)
-![1](images/image.png)
-
 ## Contact
 
 For any questions or support, please contact:
